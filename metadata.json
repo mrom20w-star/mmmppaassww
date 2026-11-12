@@ -1,0 +1,7 @@
+{
+  "name": "DBbet script | Apple & Crash",
+  "description": "DBbet script analytics terminal for Apple and Crash game predictions with real-time signal grids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
